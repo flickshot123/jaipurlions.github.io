@@ -1,1 +1,14 @@
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Jaipur Lions",
+  "url": "https://jp.jaipurlions.great-site.net",
+  "logo": "https://www.jp.jaipurlions.great-site.net/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91123456789",
+    "contactType": "Customer Service"
+  }
+}
+</script>
