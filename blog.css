@@ -1,1 +1,13 @@
 
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+}
+.blog-post h2 {
+    color: #333;
+}
+.blog-post p {
+    line-height: 1.6;
+}
