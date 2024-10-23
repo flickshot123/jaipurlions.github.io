@@ -1,13 +1,13 @@
 
-.blog-post {
-    border: 1px solid #ccc;
-    padding: 20px;
+.blog-preview {
     margin: 20px 0;
-    background-color: #f9f9f9;
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
 }
-.blog-post h2 {
-    color: #333;
+.blog-preview h2 {
+    font-size: 24px;
 }
-.blog-post p {
-    line-height: 1.6;
+.blog-preview img {
+    width: 100%;
+    height: auto;
 }
