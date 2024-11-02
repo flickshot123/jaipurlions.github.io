@@ -131,11 +131,11 @@ body {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
 }
 
-/*.header .logo img {
+/* Team logo styling */
+.header .logo img {
     width: 80px;
     height: 80px;
 }
-
 /* Team name styling */
 .header .team-name {
     font-size: 32px;
