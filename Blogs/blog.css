@@ -114,18 +114,6 @@
 }
 
 /* Body styling */
-
-
-
-
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-
-/* Body styling */
 body {
     margin: 0;
     font-family: 'Orbitron', sans-serif;
@@ -143,8 +131,7 @@ body {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
 }
 
-/* Team logo styling */
-.header .logo img {
+/*.header .logo img {
     width: 80px;
     height: 80px;
 }
