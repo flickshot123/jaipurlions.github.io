@@ -180,7 +180,14 @@ body {
 .header .nav a:hover::before {
     transform: scaleX(1);
 }
-        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #e63946;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
 
         
 
