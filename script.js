@@ -8,3 +8,13 @@
       playersSection.style.display = 'none';  // Hide the entire section
     }
   });
+
+// Blog Section Hide
+function toggleBlogSection() {
+  var blogSection = document.getElementById("blogs");
+  if (blogSection.style.display === "none") {
+    blogSection.style.display = "block";
+  } else {
+    blogSection.style.display = "none";
+  }
+}
